@@ -1,3 +1,11 @@
-.reveal h1, h2, h3, h4, h5, h6 {
-  text-transform: none !important;
+.fa-telegram-plane.color {
+  color: #2CA0DB; 
+}
+
+.fa-instagram.color {
+  color: #C83085; 
+}
+
+.fa-youtube.color {
+  color: #F7021A; 
 }
