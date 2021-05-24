@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "reveal.js": "./revealjs.js",
+    "reveal.js/dist/reveal.css": "./revealjs/dist/reveal.css",
+    "reveal.js/dist/theme/beige.css": "./revealjs/dist/theme/beige.css",
+    "reveal.js/plugin/highlight/highlight.esm.js": "./revealjs/plugin/highlight/highlight.esm.js",
+    "reveal.js/plugin/highlight/zenburn.css": "./revealjs/plugin/highlight/zenburn.css",
+    "reveal.js/plugin/markdown/markdown.esm.js": "./revealjs/plugin/markdown/markdown.esm.js"
+  }
+}
