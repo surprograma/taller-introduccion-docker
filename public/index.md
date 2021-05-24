@@ -90,7 +90,7 @@ En este ejercicio vamos a usar [Play with Docker](https://labs.play-with-docker.
 
 <small>(Para iniciar sesión van a tener que crearse una cuenta en Dockerhub)</small>
 
-<img src="/img/pwd-newinstance.png" width="200px">
+<img src="img/pwd-newinstance.png" width="200px">
 
 <br>
 
